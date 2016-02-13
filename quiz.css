@@ -36,6 +36,8 @@ li img  {
   border: 1px lightblue solid;
   margin:0;
   float:left;
+  padding-left: 2%;
+  margin-left: 1%;
 }
 
 .productDescrp{
