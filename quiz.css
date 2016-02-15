@@ -1,0 +1,106 @@
+/*Stying of the main div*/
+.productName {
+  font-family: Arial;
+  font-weight: bolder;
+  text-align: center;
+  border-bottom: 1px lightgray dotted; 
+  padding-bottom: 1%
+}
+
+ul {
+  padding: 0;
+  margin:0; 
+}
+
+
+li {
+  list-style-type: none; 
+}
+
+
+/*image used for card article*/
+li img  {
+  max-width: 500px;
+  height: 100px;
+  display: inline-block;
+  padding: 5%;
+  display: block;
+  margin: auto;
+
+}
+
+/* style the card */
+.card {
+  max-width: 30%;
+  background-color: white;
+  border: 1px lightblue solid;
+  margin:0;
+  float:left;
+  padding-left: 2%;
+  margin-left: 1%;
+}
+
+.productDescrp{
+  padding-left:1%;
+  padding-right:1%;
+  text-align: justify;
+  font-family: Arial;
+  margin-bottom: 5%;
+}
+
+.status {
+  margin-top: 5%;
+  background-color: gray;
+  color: yellow;
+  text-align: left;
+  font-family: Arial;
+  padding:5%;
+}
+
+.spec {
+  font-family: Arial;
+  padding-left: 5%;
+  margin-bottom: 0;
+}
+
+.spec li {
+  font-family: Arial;
+  padding-left: 15%;
+  font-weight: bolder;
+}
+ 
+
+p {
+  font-family: Arial;
+  font-size: .5em;
+}
+
+.data1 {
+ font-family: Arial;
+ margin-left: 10%;
+ font-size: .8em;
+ font-weight: 900; 
+}
+
+.data2{
+ font-family: Arial;
+ margin-left: 10%;
+ font-size: .8em;
+ font-weight: 900; 
+}
+
+.price{
+  font-family: Arial;
+  padding-left: 5%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.cost li{
+  font-family: Arial;  
+  margin-left: 10%;
+  font-size: .8em;
+  font-weight: 900;
+}
+
+
